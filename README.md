@@ -1,2 +1,2 @@
 # WineQualityAnalysis
-Analysis of Wine Quality Dataset.
+This repository was created to analyse Wine Quality Dataset published by UCI using python. 
