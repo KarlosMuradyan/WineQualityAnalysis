@@ -8,3 +8,4 @@ Other Python packages needed:
 - pandas
 - matplotlib
 - collections
+- scipy
