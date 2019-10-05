@@ -6,3 +6,6 @@ Jupyter notebook is required for this project.
 Other Python packages needed:
 - numpy
 - pandas
+- matplotlib
+- collections
+- scipy
